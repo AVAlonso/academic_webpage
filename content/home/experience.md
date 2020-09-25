@@ -45,5 +45,5 @@ date_format = "Jan 2006"
   #* Programming code for traders
   #* Modelling
   #* Deploying
-  """
+ 
 +++
