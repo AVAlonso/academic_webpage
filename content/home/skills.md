@@ -15,22 +15,40 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
+  icon = "python"
+  icon_pack = "fab"
+  name = "Python"
+  description = "Advance coding with Python (pandas, astropy, scikit-learn, etc)"
+
+[[feature]]
   icon = "r-project"
   icon_pack = "fab"
-  name = "R"
-  description = "90%"
+  name = "R and RStudio"
+  description = "Basic knowledge of different uses of R in data analysis"
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
-  description = "100%"  
+  description = "Experience with different statistical tools (e.g., Bayesian analysis)"  
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "linux"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Linux"
+  description = "Experience with different Linux distros, mainly with Ubuntu and Debian"
+  
+[[feature]]
+  icon = "mac"
+  icon_pack = "fas"
+  name = "Mac IiS"
+  description = "+10 years using iOS based devices"
+  
+[[feature]]
+  icon = "windows"
+  icon_pack = "fas"
+  name = "Windows"
+  description = "Maximum experience with Windows, specially 10 with all Microsoft Office programs"
 
 # Uncomment to use emoji icons.
 # [[feature]]
