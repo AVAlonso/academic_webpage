@@ -39,9 +39,9 @@ subtitle = ""
   description = "Experience with different Linux distros, mainly with Ubuntu and Debian"
   
 [[feature]]
-  icon = "mac"
+  icon = "apple"
   icon_pack = "fas"
-  name = "Mac IiS"
+  name = "Apple iOS"
   description = "+10 years using iOS based devices"
   
 [[feature]]
