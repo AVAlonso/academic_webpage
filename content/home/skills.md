@@ -21,17 +21,17 @@ subtitle = ""
   description = "Advance coding with Python (pandas, astropy, scikit-learn, etc)"
 
 [[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
-  name = "R and RStudio"
-  description = "Basic knowledge of different uses of R in data analysis"
-  
-[[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
   description = "Experience with different statistical tools (e.g., Bayesian analysis)"  
-  
+
+[[feature]]
+  icon = "r-project"
+  icon_pack = "fab"
+  name = "R and RStudio"
+  description = "Basic knowledge of different uses of R in data analysis"
+
 [[feature]]
   icon = "linux"
   icon_pack = "fas"
