@@ -24,13 +24,7 @@ date_format = "Jan 2006"
   location = "Southampton, UK"
   date_start = "2020-01-01"
   date_end = ""
-  description = """
-  #Responsibilities include:
-  
-  #* Analysing
-  #* Modelling
-  #* Deploying
-  """
+  description = """  """
 
 [[experience]]
   title = "Trader"
