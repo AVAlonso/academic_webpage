@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Alba Vega Alonso Tetilla
+title: Alba Vega      Alonso Tetilla
 
 # Username (this should match the folder name)
 authors:
