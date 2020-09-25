@@ -27,12 +27,6 @@ subtitle = ""
   description = "Experience with different statistical tools (e.g., Bayesian analysis)"  
 
 [[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
-  name = "R and RStudio"
-  description = "Basic knowledge of different uses of R in data analysis"
-
-[[feature]]
   icon = "linux"
   icon_pack = "fas"
   name = "Linux"
@@ -49,6 +43,14 @@ subtitle = ""
   icon_pack = "fas"
   name = "Windows"
   description = "Maximum experience with Windows, specially 10 with all Microsoft Office programs"
+
+[[feature]]
+  icon = "r-project"
+  icon_pack = "fab"
+  name = "R and RStudio"
+  description = "Basic knowledge of different uses of R in data analysis"
+
+
 
 # Uncomment to use emoji icons.
 # [[feature]]
