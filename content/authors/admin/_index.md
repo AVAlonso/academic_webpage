@@ -47,7 +47,7 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:A.V.Alonso-Tetilla@soton.ac.uk".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/AlonsoPysics
+  link: https://twitter.com/AlonsoPhysics
 # - icon: google-scholar
 #   icon_pack: ai
 #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
