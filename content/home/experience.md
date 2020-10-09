@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = "Southampton, UK"
   date_start = "2020-01-01"
   date_end = ""
-  description = """  """
+  description = """ Study AGN with SAMs. """
 
 [[experience]]
   title = "Trader"
@@ -40,4 +40,40 @@ date_format = "Jan 2006"
   #* Modelling
   #* Deploying
  
+[[experience]]
+  title = "MSc in Astrophysics"
+  company = "Universidad Complutense de Madrid"
+  company_url = ""
+  location = "Madrid, Spain"
+  date_start = "2019-09-01"
+  date_end = "2020-09-16"
+  description = """ MSc final thesis: Analyzing the gas inflow/outflow in PHANGS galaxies. """
+ 
+[[experience]]
+  title = "National Physics Olimpiad Collaborator"
+  company = "National Physics Olimpiad XXX"
+  company_url = ""
+  location = "Salamanca, Spain"
+  date_start = "2019-04-25"
+  date_end = "2019-04-28"
+  description = """ Selecting and organizing both the collaborators and the event itself.  """
+ 
+[[experience]]
+  title = "Pint of Science Collaborator"
+  company = "Pint of Science Spain"
+  company_url = ""
+  location = "Salamanca, Spain"
+  date_start = "2018-03-14"
+  date_end = "2018-03-16"
+  description = """ Selecting and organizing both the collaborators and the event itself.  """
+ 
+[[experience]]
+  title = "BSc in Physics"
+  company = "Universidad de Salamanca"
+  company_url = ""
+  location = "Salamanca, Spain"
+  date_start = "2015-09-01"
+  date_end = "2019-06-16"
+  description = """ BSc final year dissertation: theoretical physics behind Black Holes and Wormholes.  """
+  
 +++
