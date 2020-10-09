@@ -51,6 +51,12 @@ subtitle = ""
   description = "Basic knowledge of different uses of R in data analysis"
 
 [[feature]]
+  icon = "code"
+  icon_pack = "fas"
+  name = "Coding"
+  description = "Besides Python, I also program in Fortran and Matlab, and I write everything in LaTeX "
+
+[[feature]]
   icon = "atlas"
   icon_pack = "fas"
   name = "Languages"
