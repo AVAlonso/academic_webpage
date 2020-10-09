@@ -70,7 +70,7 @@ date_format = "Jan 2006"
   company = "University of Southamtpon"
   company_url = ""
   location = "Southampton, UK"
-  date_start = "2020-01-01"
+  date_start = "2020-09-01"
   date_end = ""
   description = """ Study AGN with SAMs. """ 
  
