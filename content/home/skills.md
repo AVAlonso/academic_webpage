@@ -28,7 +28,7 @@ subtitle = ""
 
 [[feature]]
   icon = "linux"
-  icon_pack = "fas"
+  icon_pack = "fab"
   name = "Linux"
   description = "Experience with different Linux distros, mainly with Ubuntu and Debian"
   
