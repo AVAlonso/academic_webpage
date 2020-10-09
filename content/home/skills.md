@@ -34,13 +34,13 @@ subtitle = ""
   
 [[feature]]
   icon = "apple"
-  icon_pack = "fas"
+  icon_pack = "fab"
   name = "Apple iOS"
   description = "+10 years using iOS based devices"
   
 [[feature]]
   icon = "windows"
-  icon_pack = "fas"
+  icon_pack = "fab"
   name = "Windows"
   description = "Maximum experience with Windows, specially 10 with all Microsoft Office programs"
 
@@ -50,7 +50,11 @@ subtitle = ""
   name = "R and RStudio"
   description = "Basic knowledge of different uses of R in data analysis"
 
-
+[[feature]]
+  icon = "atlas"
+  icon_pack = "fas"
+  name = "Languages"
+  description = "Fluent Spanish and English and studying Italian"
 
 # Uncomment to use emoji icons.
 # [[feature]]
