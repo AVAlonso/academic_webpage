@@ -54,7 +54,13 @@ subtitle = ""
   icon = "atlas"
   icon_pack = "fas"
   name = "Languages"
-  description = "Fluent Spanish and English and studying Italian"
+  description = "Fluent Spanish (native) and English and currently studying Italian"
+  
+ [[feature]]
+  icon = "music"
+  icon_pack = "fas"
+  name = "Music"
+  description = "I play the viola, violin and piano. I love soundtracks and classical music"
 
 # Uncomment to use emoji icons.
 # [[feature]]
