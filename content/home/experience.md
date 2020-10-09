@@ -18,14 +18,7 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
-[[experience]]
-  title = "PhD Research Student"
-  company = "University of Southamtpon"
-  company_url = ""
-  location = "Southampton, UK"
-  date_start = "2020-01-01"
-  date_end = ""
-  description = """ Study AGN with SAMs. """
+
 
 [[experience]]
   title = "Trader"
@@ -71,5 +64,14 @@ date_format = "Jan 2006"
   date_start = "2015-09-01"
   date_end = "2019-06-16"
   description = """ BSc final year dissertation: theoretical physics behind Black Holes and Wormholes.  """
-  
+ 
+[[experience]]
+  title = "PhD Research Student"
+  company = "University of Southamtpon"
+  company_url = ""
+  location = "Southampton, UK"
+  date_start = "2020-01-01"
+  date_end = ""
+  description = """ Study AGN with SAMs. """ 
+ 
 +++
