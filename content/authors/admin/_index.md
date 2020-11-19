@@ -69,5 +69,5 @@ user_groups:
 - Researchers
 - Visitors
 ---
-I am an Astrophysicist studying the behaviour of AGNs in galaxies using state-of-the-art tools with Semi-Analytic Models (SAM). I am part of the BiD4BEST project (http://www.usm.uni-muenchen.de/~dolag/BiD4BEST/) studing the science WP3/4 and therefore asking what are the physical links between galaxy morphology/environment and AGN triggering and how state-of-the-art theoretical models compare with state-of-the-art observational data.
+I am an Astrophysicist studying the behaviour of AGNs in galaxies using state-of-the-art tools with Semi-Analytic Models (SAM). I am part of the BiD4BEST project (https://www.bid4best.org/) studing the science WP3/4 and therefore asking what are the physical links between galaxy morphology/environment and AGN triggering and how state-of-the-art theoretical models compare with state-of-the-art observational data.
 
