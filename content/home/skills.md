@@ -54,13 +54,13 @@ subtitle = ""
   icon = "code"
   icon_pack = "fas"
   name = "Coding"
-  description = "Besides Python, I also program in Fortran and Matlab, and I write everything in LaTeX "
+  description = "Python, Fortran, C++, and Matlab. Documents in LaTeX "
 
 [[feature]]
   icon = "atlas"
   icon_pack = "fas"
   name = "Languages"
-  description = "Fluent Spanish (native) and English and currently studying Italian"
+  description = "Fluent Spanish (native) and English. Basic Italian and German"
   
  [[feature]]
   icon = "music"
